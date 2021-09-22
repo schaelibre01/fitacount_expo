@@ -1,0 +1,12 @@
+{
+  "name": "fitacountexpo",
+  "displayName": "fitacount_expo",
+  "expo": {
+    "name": "fitacount_expo",
+    "slug": "fitacount_expo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
